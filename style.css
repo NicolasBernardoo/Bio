@@ -108,6 +108,7 @@ aside,
   box-sizing: border-box;
   border-left: 10px solid black;
   border-bottom: 10px solid black;
+  display: flex;
 }
 main {
   float: left;
