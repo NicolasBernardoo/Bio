@@ -58,7 +58,6 @@ aside {
   position: relative;
   width: 15%;
   top: 310px;
-  display: block;
 }
 
 nav h1 {
@@ -109,7 +108,6 @@ aside,
   box-sizing: border-box;
   border-left: 10px solid black;
   border-bottom: 10px solid black;
-  display: block
 }
 main {
   float: left;
@@ -124,5 +122,4 @@ cite {
   top: 0;
   right: 0;
   background-color: black;
-  display: block;
 }
