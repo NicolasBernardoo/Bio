@@ -58,6 +58,7 @@ aside {
   position: relative;
   width: 15%;
   top: 310px;
+  display: flex;
 }
 
 nav h1 {
@@ -123,4 +124,5 @@ cite {
   top: 0;
   right: 0;
   background-color: black;
+  display: flex;
 }
